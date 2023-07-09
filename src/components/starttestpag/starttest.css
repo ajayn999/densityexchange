@@ -1,0 +1,13 @@
+.start-pag{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    padding: 6px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}

@@ -1,0 +1,35 @@
+
+
+.nav-head{
+    display: flex;
+    
+    padding: 20px;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.nav-ls{
+    display: flex;
+  
+    
+    
+}
+
+.nav-ls li{
+    list-style: none;
+    padding: 0px 50px;
+}
+.nav-ls a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn-nav button{
+    padding: 15px 40px;
+    margin: -10px 0px 0px 0px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
